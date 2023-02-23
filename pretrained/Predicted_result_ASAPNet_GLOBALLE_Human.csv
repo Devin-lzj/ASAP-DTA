@@ -1,0 +1,8 @@
+dataset,model,auc,prc,precision,recall
+Human,ASAPNet_GLOBALLE,0.986,0.986,0.959,0.928
+Human,ASAPNet_GLOBALLE,0.986,0.988,0.94,0.952
+Human,ASAPNet_GLOBALLE,0.986,0.987,0.951,0.954
+Human,ASAPNet_GLOBALLE,0.989,0.987,0.936,0.947
+Human,ASAPNet_GLOBALLE,0.993,0.993,0.972,0.935
+5-fold cross test finished. 
+auc:0.988¡À0.0029 | prc:0.988¡À0.0025 | precision:0.952¡À0.0130 | recall:0.943¡À0.0102

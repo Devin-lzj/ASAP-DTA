@@ -1,0 +1,8 @@
+dataset,model,auc,prc,precision,recall
+Human,ASAPNet_HIERLE,0.984,0.984,0.957,0.912
+Human,ASAPNet_HIERLE,0.983,0.984,0.931,0.948
+Human,ASAPNet_HIERLE,0.987,0.987,0.952,0.943
+Human,ASAPNet_HIERLE,0.986,0.982,0.953,0.926
+Human,ASAPNet_HIERLE,0.989,0.989,0.936,0.941
+5-fold cross test finished. 
+auc:0.986¡À0.0021 | prc:0.985¡À0.0022 | precision:0.946¡À0.0102 | recall:0.934¡À0.0131
